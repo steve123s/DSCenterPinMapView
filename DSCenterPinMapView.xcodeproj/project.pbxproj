@@ -7,98 +7,98 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		6F98316C24DA16C1004A6D05 /* DSCenterPinMapView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F98316224DA16C1004A6D05 /* DSCenterPinMapView.framework */; };
-		6F98317124DA16C1004A6D05 /* DSCenterPinMapViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F98317024DA16C1004A6D05 /* DSCenterPinMapViewTests.swift */; };
-		6F98317324DA16C1004A6D05 /* DSCenterPinMapView.h in Headers */ = {isa = PBXBuildFile; fileRef = 6F98316524DA16C1004A6D05 /* DSCenterPinMapView.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6F98317E24DA208B004A6D05 /* DSCenterPinView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F98317C24DA208B004A6D05 /* DSCenterPinView.swift */; };
-		6F98317F24DA208B004A6D05 /* DSCenterPinMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F98317D24DA208B004A6D05 /* DSCenterPinMapView.swift */; };
-		6F98318224DA28D4004A6D05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F98318124DA28D4004A6D05 /* Assets.xcassets */; };
+		6F98319724DA2BE7004A6D05 /* DSCenterPinMapView.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F98318D24DA2BE7004A6D05 /* DSCenterPinMapView.framework */; };
+		6F98319C24DA2BE7004A6D05 /* DSCenterPinMapViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F98319B24DA2BE7004A6D05 /* DSCenterPinMapViewTests.swift */; };
+		6F98319E24DA2BE7004A6D05 /* DSCenterPinMapView.h in Headers */ = {isa = PBXBuildFile; fileRef = 6F98319024DA2BE7004A6D05 /* DSCenterPinMapView.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6F9831AB24DA2CB7004A6D05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F9831A824DA2CB7004A6D05 /* Assets.xcassets */; };
+		6F9831AC24DA2CB7004A6D05 /* DSCenterPinView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F9831A924DA2CB7004A6D05 /* DSCenterPinView.swift */; };
+		6F9831AD24DA2CB7004A6D05 /* DSCenterPinMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F9831AA24DA2CB7004A6D05 /* DSCenterPinMapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		6F98316D24DA16C1004A6D05 /* PBXContainerItemProxy */ = {
+		6F98319824DA2BE7004A6D05 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 6F98315924DA16C1004A6D05 /* Project object */;
+			containerPortal = 6F98318424DA2BE7004A6D05 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 6F98316124DA16C1004A6D05;
+			remoteGlobalIDString = 6F98318C24DA2BE7004A6D05;
 			remoteInfo = DSCenterPinMapView;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		6F98316224DA16C1004A6D05 /* DSCenterPinMapView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DSCenterPinMapView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		6F98316524DA16C1004A6D05 /* DSCenterPinMapView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DSCenterPinMapView.h; sourceTree = "<group>"; };
-		6F98316624DA16C1004A6D05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6F98316B24DA16C1004A6D05 /* DSCenterPinMapViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DSCenterPinMapViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		6F98317024DA16C1004A6D05 /* DSCenterPinMapViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DSCenterPinMapViewTests.swift; sourceTree = "<group>"; };
-		6F98317224DA16C1004A6D05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		6F98317C24DA208B004A6D05 /* DSCenterPinView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DSCenterPinView.swift; sourceTree = "<group>"; };
-		6F98317D24DA208B004A6D05 /* DSCenterPinMapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DSCenterPinMapView.swift; sourceTree = "<group>"; };
-		6F98318124DA28D4004A6D05 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6F98318D24DA2BE7004A6D05 /* DSCenterPinMapView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = DSCenterPinMapView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F98319024DA2BE7004A6D05 /* DSCenterPinMapView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DSCenterPinMapView.h; sourceTree = "<group>"; };
+		6F98319124DA2BE7004A6D05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6F98319624DA2BE7004A6D05 /* DSCenterPinMapViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DSCenterPinMapViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		6F98319B24DA2BE7004A6D05 /* DSCenterPinMapViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DSCenterPinMapViewTests.swift; sourceTree = "<group>"; };
+		6F98319D24DA2BE7004A6D05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6F9831A824DA2CB7004A6D05 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6F9831A924DA2CB7004A6D05 /* DSCenterPinView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DSCenterPinView.swift; sourceTree = "<group>"; };
+		6F9831AA24DA2CB7004A6D05 /* DSCenterPinMapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DSCenterPinMapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		6F98315F24DA16C1004A6D05 /* Frameworks */ = {
+		6F98318A24DA2BE7004A6D05 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6F98316824DA16C1004A6D05 /* Frameworks */ = {
+		6F98319324DA2BE7004A6D05 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6F98316C24DA16C1004A6D05 /* DSCenterPinMapView.framework in Frameworks */,
+				6F98319724DA2BE7004A6D05 /* DSCenterPinMapView.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		6F98315824DA16C1004A6D05 = {
+		6F98318324DA2BE7004A6D05 = {
 			isa = PBXGroup;
 			children = (
-				6F98316424DA16C1004A6D05 /* DSCenterPinMapView */,
-				6F98316F24DA16C1004A6D05 /* DSCenterPinMapViewTests */,
-				6F98316324DA16C1004A6D05 /* Products */,
+				6F98318F24DA2BE7004A6D05 /* DSCenterPinMapView */,
+				6F98319A24DA2BE7004A6D05 /* DSCenterPinMapViewTests */,
+				6F98318E24DA2BE7004A6D05 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		6F98316324DA16C1004A6D05 /* Products */ = {
+		6F98318E24DA2BE7004A6D05 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				6F98316224DA16C1004A6D05 /* DSCenterPinMapView.framework */,
-				6F98316B24DA16C1004A6D05 /* DSCenterPinMapViewTests.xctest */,
+				6F98318D24DA2BE7004A6D05 /* DSCenterPinMapView.framework */,
+				6F98319624DA2BE7004A6D05 /* DSCenterPinMapViewTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6F98316424DA16C1004A6D05 /* DSCenterPinMapView */ = {
+		6F98318F24DA2BE7004A6D05 /* DSCenterPinMapView */ = {
 			isa = PBXGroup;
 			children = (
-				6F98316524DA16C1004A6D05 /* DSCenterPinMapView.h */,
-				6F98317D24DA208B004A6D05 /* DSCenterPinMapView.swift */,
-				6F98317C24DA208B004A6D05 /* DSCenterPinView.swift */,
-				6F98316624DA16C1004A6D05 /* Info.plist */,
-				6F98318024DA28D4004A6D05 /* Resources */,
+				6F9831AA24DA2CB7004A6D05 /* DSCenterPinMapView.swift */,
+				6F9831A924DA2CB7004A6D05 /* DSCenterPinView.swift */,
+				6F9831A724DA2CB7004A6D05 /* Resources */,
+				6F98319024DA2BE7004A6D05 /* DSCenterPinMapView.h */,
+				6F98319124DA2BE7004A6D05 /* Info.plist */,
 			);
 			path = DSCenterPinMapView;
 			sourceTree = "<group>";
 		};
-		6F98316F24DA16C1004A6D05 /* DSCenterPinMapViewTests */ = {
+		6F98319A24DA2BE7004A6D05 /* DSCenterPinMapViewTests */ = {
 			isa = PBXGroup;
 			children = (
-				6F98317024DA16C1004A6D05 /* DSCenterPinMapViewTests.swift */,
-				6F98317224DA16C1004A6D05 /* Info.plist */,
+				6F98319B24DA2BE7004A6D05 /* DSCenterPinMapViewTests.swift */,
+				6F98319D24DA2BE7004A6D05 /* Info.plist */,
 			);
 			path = DSCenterPinMapViewTests;
 			sourceTree = "<group>";
 		};
-		6F98318024DA28D4004A6D05 /* Resources */ = {
+		6F9831A724DA2CB7004A6D05 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				6F98318124DA28D4004A6D05 /* Assets.xcassets */,
+				6F9831A824DA2CB7004A6D05 /* Assets.xcassets */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -106,25 +106,25 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		6F98315D24DA16C1004A6D05 /* Headers */ = {
+		6F98318824DA2BE7004A6D05 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6F98317324DA16C1004A6D05 /* DSCenterPinMapView.h in Headers */,
+				6F98319E24DA2BE7004A6D05 /* DSCenterPinMapView.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		6F98316124DA16C1004A6D05 /* DSCenterPinMapView */ = {
+		6F98318C24DA2BE7004A6D05 /* DSCenterPinMapView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6F98317624DA16C1004A6D05 /* Build configuration list for PBXNativeTarget "DSCenterPinMapView" */;
+			buildConfigurationList = 6F9831A124DA2BE7004A6D05 /* Build configuration list for PBXNativeTarget "DSCenterPinMapView" */;
 			buildPhases = (
-				6F98315D24DA16C1004A6D05 /* Headers */,
-				6F98315E24DA16C1004A6D05 /* Sources */,
-				6F98315F24DA16C1004A6D05 /* Frameworks */,
-				6F98316024DA16C1004A6D05 /* Resources */,
+				6F98318824DA2BE7004A6D05 /* Headers */,
+				6F98318924DA2BE7004A6D05 /* Sources */,
+				6F98318A24DA2BE7004A6D05 /* Frameworks */,
+				6F98318B24DA2BE7004A6D05 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -132,47 +132,47 @@
 			);
 			name = DSCenterPinMapView;
 			productName = DSCenterPinMapView;
-			productReference = 6F98316224DA16C1004A6D05 /* DSCenterPinMapView.framework */;
+			productReference = 6F98318D24DA2BE7004A6D05 /* DSCenterPinMapView.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		6F98316A24DA16C1004A6D05 /* DSCenterPinMapViewTests */ = {
+		6F98319524DA2BE7004A6D05 /* DSCenterPinMapViewTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 6F98317924DA16C1004A6D05 /* Build configuration list for PBXNativeTarget "DSCenterPinMapViewTests" */;
+			buildConfigurationList = 6F9831A424DA2BE7004A6D05 /* Build configuration list for PBXNativeTarget "DSCenterPinMapViewTests" */;
 			buildPhases = (
-				6F98316724DA16C1004A6D05 /* Sources */,
-				6F98316824DA16C1004A6D05 /* Frameworks */,
-				6F98316924DA16C1004A6D05 /* Resources */,
+				6F98319224DA2BE7004A6D05 /* Sources */,
+				6F98319324DA2BE7004A6D05 /* Frameworks */,
+				6F98319424DA2BE7004A6D05 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				6F98316E24DA16C1004A6D05 /* PBXTargetDependency */,
+				6F98319924DA2BE7004A6D05 /* PBXTargetDependency */,
 			);
 			name = DSCenterPinMapViewTests;
 			productName = DSCenterPinMapViewTests;
-			productReference = 6F98316B24DA16C1004A6D05 /* DSCenterPinMapViewTests.xctest */;
+			productReference = 6F98319624DA2BE7004A6D05 /* DSCenterPinMapViewTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		6F98315924DA16C1004A6D05 /* Project object */ = {
+		6F98318424DA2BE7004A6D05 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1160;
 				LastUpgradeCheck = 1160;
 				ORGANIZATIONNAME = danielsalinas;
 				TargetAttributes = {
-					6F98316124DA16C1004A6D05 = {
+					6F98318C24DA2BE7004A6D05 = {
 						CreatedOnToolsVersion = 11.6;
 						LastSwiftMigration = 1160;
 					};
-					6F98316A24DA16C1004A6D05 = {
+					6F98319524DA2BE7004A6D05 = {
 						CreatedOnToolsVersion = 11.6;
 					};
 				};
 			};
-			buildConfigurationList = 6F98315C24DA16C1004A6D05 /* Build configuration list for PBXProject "DSCenterPinMapView" */;
+			buildConfigurationList = 6F98318724DA2BE7004A6D05 /* Build configuration list for PBXProject "DSCenterPinMapView" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -180,27 +180,27 @@
 				en,
 				Base,
 			);
-			mainGroup = 6F98315824DA16C1004A6D05;
-			productRefGroup = 6F98316324DA16C1004A6D05 /* Products */;
+			mainGroup = 6F98318324DA2BE7004A6D05;
+			productRefGroup = 6F98318E24DA2BE7004A6D05 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				6F98316124DA16C1004A6D05 /* DSCenterPinMapView */,
-				6F98316A24DA16C1004A6D05 /* DSCenterPinMapViewTests */,
+				6F98318C24DA2BE7004A6D05 /* DSCenterPinMapView */,
+				6F98319524DA2BE7004A6D05 /* DSCenterPinMapViewTests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		6F98316024DA16C1004A6D05 /* Resources */ = {
+		6F98318B24DA2BE7004A6D05 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6F98318224DA28D4004A6D05 /* Assets.xcassets in Resources */,
+				6F9831AB24DA2CB7004A6D05 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6F98316924DA16C1004A6D05 /* Resources */ = {
+		6F98319424DA2BE7004A6D05 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -210,35 +210,35 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		6F98315E24DA16C1004A6D05 /* Sources */ = {
+		6F98318924DA2BE7004A6D05 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6F98317E24DA208B004A6D05 /* DSCenterPinView.swift in Sources */,
-				6F98317F24DA208B004A6D05 /* DSCenterPinMapView.swift in Sources */,
+				6F9831AC24DA2CB7004A6D05 /* DSCenterPinView.swift in Sources */,
+				6F9831AD24DA2CB7004A6D05 /* DSCenterPinMapView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6F98316724DA16C1004A6D05 /* Sources */ = {
+		6F98319224DA2BE7004A6D05 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6F98317124DA16C1004A6D05 /* DSCenterPinMapViewTests.swift in Sources */,
+				6F98319C24DA2BE7004A6D05 /* DSCenterPinMapViewTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		6F98316E24DA16C1004A6D05 /* PBXTargetDependency */ = {
+		6F98319924DA2BE7004A6D05 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 6F98316124DA16C1004A6D05 /* DSCenterPinMapView */;
-			targetProxy = 6F98316D24DA16C1004A6D05 /* PBXContainerItemProxy */;
+			target = 6F98318C24DA2BE7004A6D05 /* DSCenterPinMapView */;
+			targetProxy = 6F98319824DA2BE7004A6D05 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		6F98317424DA16C1004A6D05 /* Debug */ = {
+		6F98319F24DA2BE7004A6D05 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -289,11 +289,11 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				SDKROOT = macosx;
+				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				VERSIONING_SYSTEM = "apple-generic";
@@ -301,7 +301,7 @@
 			};
 			name = Debug;
 		};
-		6F98317524DA16C1004A6D05 /* Release */ = {
+		6F9831A024DA2BE7004A6D05 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -346,23 +346,23 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
-				SDKROOT = macosx;
+				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Release;
 		};
-		6F98317724DA16C1004A6D05 /* Debug */ = {
+		6F9831A224DA2BE7004A6D05 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = NZ62TX5ZW3;
 				DYLIB_COMPATIBILITY_VERSION = 1;
@@ -372,7 +372,7 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
-					"@executable_path/../Frameworks",
+					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.danielsalinas.DSCenterPinMapView;
@@ -380,15 +380,15 @@
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		6F98317824DA16C1004A6D05 /* Release */ = {
+		6F9831A324DA2BE7004A6D05 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = NZ62TX5ZW3;
 				DYLIB_COMPATIBILITY_VERSION = 1;
@@ -398,85 +398,86 @@
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
-					"@executable_path/../Frameworks",
+					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.danielsalinas.DSCenterPinMapView;
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		6F98317A24DA16C1004A6D05 /* Debug */ = {
+		6F9831A524DA2BE7004A6D05 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = NZ62TX5ZW3;
 				INFOPLIST_FILE = DSCenterPinMapViewTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
-					"@executable_path/../Frameworks",
-					"@loader_path/../Frameworks",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.danielsalinas.DSCenterPinMapViewTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		6F98317B24DA16C1004A6D05 /* Release */ = {
+		6F9831A624DA2BE7004A6D05 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
 				DEVELOPMENT_TEAM = NZ62TX5ZW3;
 				INFOPLIST_FILE = DSCenterPinMapViewTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
-					"@executable_path/../Frameworks",
-					"@loader_path/../Frameworks",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.danielsalinas.DSCenterPinMapViewTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		6F98315C24DA16C1004A6D05 /* Build configuration list for PBXProject "DSCenterPinMapView" */ = {
+		6F98318724DA2BE7004A6D05 /* Build configuration list for PBXProject "DSCenterPinMapView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6F98317424DA16C1004A6D05 /* Debug */,
-				6F98317524DA16C1004A6D05 /* Release */,
+				6F98319F24DA2BE7004A6D05 /* Debug */,
+				6F9831A024DA2BE7004A6D05 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6F98317624DA16C1004A6D05 /* Build configuration list for PBXNativeTarget "DSCenterPinMapView" */ = {
+		6F9831A124DA2BE7004A6D05 /* Build configuration list for PBXNativeTarget "DSCenterPinMapView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6F98317724DA16C1004A6D05 /* Debug */,
-				6F98317824DA16C1004A6D05 /* Release */,
+				6F9831A224DA2BE7004A6D05 /* Debug */,
+				6F9831A324DA2BE7004A6D05 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		6F98317924DA16C1004A6D05 /* Build configuration list for PBXNativeTarget "DSCenterPinMapViewTests" */ = {
+		6F9831A424DA2BE7004A6D05 /* Build configuration list for PBXNativeTarget "DSCenterPinMapViewTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				6F98317A24DA16C1004A6D05 /* Debug */,
-				6F98317B24DA16C1004A6D05 /* Release */,
+				6F9831A524DA2BE7004A6D05 /* Debug */,
+				6F9831A624DA2BE7004A6D05 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 6F98315924DA16C1004A6D05 /* Project object */;
+	rootObject = 6F98318424DA2BE7004A6D05 /* Project object */;
 }
