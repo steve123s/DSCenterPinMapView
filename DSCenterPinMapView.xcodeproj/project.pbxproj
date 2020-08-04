@@ -12,6 +12,7 @@
 		6F98317324DA16C1004A6D05 /* DSCenterPinMapView.h in Headers */ = {isa = PBXBuildFile; fileRef = 6F98316524DA16C1004A6D05 /* DSCenterPinMapView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6F98317E24DA208B004A6D05 /* DSCenterPinView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F98317C24DA208B004A6D05 /* DSCenterPinView.swift */; };
 		6F98317F24DA208B004A6D05 /* DSCenterPinMapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F98317D24DA208B004A6D05 /* DSCenterPinMapView.swift */; };
+		6F98318224DA28D4004A6D05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F98318124DA28D4004A6D05 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -33,6 +34,7 @@
 		6F98317224DA16C1004A6D05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6F98317C24DA208B004A6D05 /* DSCenterPinView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DSCenterPinView.swift; sourceTree = "<group>"; };
 		6F98317D24DA208B004A6D05 /* DSCenterPinMapView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DSCenterPinMapView.swift; sourceTree = "<group>"; };
+		6F98318124DA28D4004A6D05 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 				6F98317D24DA208B004A6D05 /* DSCenterPinMapView.swift */,
 				6F98317C24DA208B004A6D05 /* DSCenterPinView.swift */,
 				6F98316624DA16C1004A6D05 /* Info.plist */,
+				6F98318024DA28D4004A6D05 /* Resources */,
 			);
 			path = DSCenterPinMapView;
 			sourceTree = "<group>";
@@ -90,6 +93,14 @@
 				6F98317224DA16C1004A6D05 /* Info.plist */,
 			);
 			path = DSCenterPinMapViewTests;
+			sourceTree = "<group>";
+		};
+		6F98318024DA28D4004A6D05 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				6F98318124DA28D4004A6D05 /* Assets.xcassets */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -185,6 +196,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6F98318224DA28D4004A6D05 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

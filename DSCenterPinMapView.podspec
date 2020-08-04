@@ -3,8 +3,8 @@ Pod::Spec.new do |s|
 # Pod Information
 s.platform = :ios
 s.ios.deployment_target = '12.0'
-s.name = "RWPickFlavor"
-s.summary = "RWPickFlavor lets a user select an ice cream flavor."
+s.name = "DSCenterPinMapView"
+s.summary = "DSCenterPinMapView makes it easy for you to use a MKMapView with a central and animated pin to get locations."
 s.requires_arc = true
 
 # Versioning
