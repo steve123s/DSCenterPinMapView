@@ -8,20 +8,29 @@
 
 import UIKit
 
-class DSCenterPinView: UIView {
+public class DSCenterPinView: UIView {
+    
+    //------------------------------------
+    // MARK: - Public Properties
+    //------------------------------------
 
-    var pin: UIImageView = UIImageView(frame: CGRect(x: 0, y: 0, width: 100, height: 200)) {
+    /// Center Pin image view
+    public var pin: UIImageView = UIImageView(frame: CGRect(x: 0, y: 0, width: 100, height: 200)) {
         didSet {
             pin.contentMode = .center
         }
     }
-    var shadow: UIImageView = UIImageView(frame: CGRect(x: 0, y: 0, width: 100, height: 200)) {
+    
+    /// Center Shadow image view
+    public var shadow: UIImageView = UIImageView(frame: CGRect(x: 0, y: 0, width: 100, height: 200)) {
         didSet {
             shadow.contentMode = .center
         }
     }
-    var startPosition: CGPoint = CGPoint.zero
-    var canLayout: Bool = false
+    
+    //------------------------------------
+    // MARK: - Overloaded Methods
+    //------------------------------------
     
     override init(frame: CGRect) {
         super.init(frame: frame)
@@ -33,6 +42,11 @@ class DSCenterPinView: UIView {
         setup()
     }
     
+    //------------------------------------
+    // MARK: - Private Methods
+    //------------------------------------
+    
+    /// Set up center pin view
     private func setup() {
         self.addSubview(shadow)
         self.addSubview(pin)
