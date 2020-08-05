@@ -166,7 +166,7 @@ class DSCenterPinMapView: UIView {
     private func setFrames() {
         
         self.pin.frame = CGRect(x: self.mapview.center.x - self.pin.pin.frame.size.width / 2 + self.pinOffsetX,
-                                y: self.mapview.layoutMarginsGuide.layoutFrame.center.y - self.pin.pin.frame.size.height + self.pinOffsetY,
+                                y: self.mapview.layoutMarginsGuide.layoutFrame.midY - self.pin.pin.frame.size.height + self.pinOffsetY,
                                 width: self.pin.frame.size.width,
                                 height: self.pin.frame.size.height)
         
@@ -194,10 +194,4 @@ extension DSCenterPinMapView: MKMapViewDelegate {
         updateDragging()
     }
     
-}
-
-private extension CGRect {
-    var center: CGPoint {
-        return CGPoint(x: midX, y: midY)
-    }
 }
