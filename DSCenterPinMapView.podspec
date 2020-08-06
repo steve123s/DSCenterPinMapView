@@ -8,7 +8,7 @@ s.summary = "DSCenterPinMapView makes it easy for you to use a MKMapView with a 
 s.requires_arc = true
 
 # Versioning
-s.version = "0.1.1"
+s.version = "0.1.2"
 
 # License
 s.license = { :type => "MIT", :file => "LICENSE" }

@@ -30,12 +30,10 @@ pod 'DSCenterPinMapView'
 
 ```
 let pinMapView = DSCenterPinMapView(frame: myFrame)
-
 ```
 
 ```
 let pinMapView = DSCenterPinMapView(frame: myFrame)
-
 ```
 
 ## Customization 
