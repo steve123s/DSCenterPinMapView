@@ -9,7 +9,7 @@
 
 ## Examples
 
- ![](/Screenshots/example.gif)
+ ![](/Screenshots/example.gif)  ![](/Screenshots/example_2.gif)
 
 ## Requirements
 - iOS 11.0+
