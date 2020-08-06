@@ -1,9 +1,9 @@
 # DSCenterPinMapView
 
+[![Supports](https://img.shields.io/badge/supports-CocoaPods%20-green.svg?style=flat)]()
 [![Version](https://img.shields.io/cocoapods/v/DSCenterPinMapView.svg?style=flat)](http://cocoapods.org/pods/DSCenterPinMapView)
 [![License](https://img.shields.io/cocoapods/l/DSCenterPinMapView.svg?style=flat)](http://cocoapods.org/pods/DSCenterPinMapView)
 [![Language](https://img.shields.io/badge/language-Swift-orange.svg?style=flat)]()
-[![Supports](https://img.shields.io/badge/supports-CocoaPods?style=flat)]()
 [![Platform](https://img.shields.io/cocoapods/p/DSCenterPinMapView.svg?style=flat)](http://cocoapods.org/pods/DSCenterPinMapView)
 <br />
 
