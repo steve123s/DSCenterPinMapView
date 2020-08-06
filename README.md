@@ -149,6 +149,30 @@ extension MyViewController: DSCenterPinMapViewDelegate {
 
 ```
 
+#### Centering Map
+You can center DSCenterPinMapView on your current location by using:
+```swift
+pinMapView.pinMapView.centerOnUserLocation()
+```
+
+Or you cans set a custom coordinate where you want to center your map:
+```swift
+pinMapView.pinMapView.center(on coordinate: myCoordinate)
+```
+
+On both methods you can set a custom span for how much map you wish to show:
+```swift
+let mySpan = MKCoordinateSpan(latitudeDelta: 0.01, longitudeDelta: 0.01)
+pinMapView.pinMapView.center(on coordinate: myCoordinate, span: mySpan)
+```
+
+#### Supports Setting Map Insets
+If you update your map insets at run time you should call:
+```swift
+pinMapView.pinMapView.updateFrames(animated: true)
+```
+to set a new center for the pin in a smooth transition.
+
 ## Author
 
 Daniel Esteban Salinas Suárez, danielesalinas23@gmail.com
